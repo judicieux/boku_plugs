@@ -1,4 +1,4 @@
-module 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@github.com/judicieux/boku_plugs
+module github.com/judicieux/boku_plugs
 
 go 1.11
 
