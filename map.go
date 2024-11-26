@@ -10,7 +10,6 @@ var webPlugins = []l9format.WebPluginInterface{
         web.BootstrapHttpPlugin{},
         web.ConfigEnvRubyHttpPlugin{},
         web.ConfigJsonHttp{},
-        web.CodeJsonReply{},
         web.ConfigYmlHttpPlugin{},
         web.DashboardPhpInfoHttpPlugin{},
         web.DockerComposeProdHttpPlugin{},
